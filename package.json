@@ -1,0 +1,27 @@
+{
+  "name": "DevFian",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "request": "^2.88.0",
+    "foreach-timeout": "^3.0.1",
+    "map": "^1.0.1",
+    "ffmpeg": "^0.0.4",
+    "express": "^4.17.1",
+    "https": "^1.0.0", 
+    "ytdl-core": "^1.0.3",
+    "opusscript": "^0.0.7",
+    "superagent": "^5.1.2",
+    "simple-youtube-api": "^5.2.1",
+    "moment": "^2.24.0",
+    "node-gyp": "^6.0.1",
+    "node-opus": "^0.3.2",
+    "server": "^1.0.21",
+    "discord.js-commando": "^0.10.0",
+    "path": "^0.12.7"
+  }
+} 
